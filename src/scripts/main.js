@@ -21,3 +21,5 @@ const renderDomComponent = content => {
 renderDomComponent("Hello World!");
 renderDomComponent("Awesomesauce");
 renderDomComponent("Excellent");
+renderDomComponent("Most Excellent");
+renderDomComponent("cats");
